@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Raafeh/Raafeh/blob/main/banner.gif)](https://raafeh.io)
 
 <h1 align="center">Hi <img src="https://github.com/Raafeh/Raafeh/blob/main/wave.gif" width="30px">, I'm Raafeh</h1>
-<h3 align="center">A Computer Systems Engineer & A Data Scienctist</h3>
+<h3 align="center">A Computer Systems Engineer & A Data Scientist</h3>
 
 <img src="https://github.com/Raafeh/Raafeh/blob/main/coding.gif" width="400px" img align = "right" alt="Coding">
 
